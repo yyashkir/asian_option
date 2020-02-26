@@ -1,0 +1,11 @@
+.vs/
+x64/
+data/
+*.sln
+*.res
+*.vcxproj
+*.png
+*.out
+*.user
+*.bak
+plotcommand
